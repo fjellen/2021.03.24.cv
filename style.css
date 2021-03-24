@@ -17,6 +17,18 @@
     margin-right: 8px;
 }
 
+.card-b {
+    height: 10px;
+    width: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    word-wrap: normal;
+}
+
 .card-subtitle{
     color:blue;
 }
