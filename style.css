@@ -25,6 +25,36 @@
     height: 240px;
 }
 
+.card-body-c {
+    padding: 1rem 4rem;
+    height: 240px;
+}
+
+.card-body-d {
+    height: 70px;
+}
+
+.card-favoriter {
+    columns: row;
+    flex-direction: row;
+    flex: auto;
+}
+
+.row-a {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+
+.w-100-a {
+    width: 100% !important;
+}
+
+
 .foto{
     height: 250px;
     width: 236px;
